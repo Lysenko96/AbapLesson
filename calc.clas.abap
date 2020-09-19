@@ -24,7 +24,7 @@ WRITE 'sum: ' && f_sum.
 NEW-LINE.
 WRITE 'diff: ' && f_diff.
 NEW-LINE.
-WRITE 'multi: '&& f_multi.
+WRITE 'multi: ' && f_multi.
 NEW-LINE.
 WRITE 'div: ' && f_div.
 NEW-LINE.
