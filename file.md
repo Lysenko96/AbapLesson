@@ -22,7 +22,7 @@ Your task is to read data from 2 files, order racers by time and print report th
 2. Sebastian Vettel      | FERRARI                       | 1:12.415
 3. ...
 
-------------------------------------------------------------------------
+ ------------------------------------------------------------------------
 
 16. Brendon Hartley   | SCUDERIA TORO ROSSO HONDA | 1:13.179
 17. Marcus Ericsson   | SAUBER FERRARI            | 1:13.265
